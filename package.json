@@ -1,6 +1,6 @@
 {
   "name": "@yaronsohn/jsdbg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js debugging helper library",
   "main": "index.js",
   "directories": {
